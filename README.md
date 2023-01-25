@@ -1,7 +1,17 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://i.imgur.com/pXdvoLa.png" alt="Dices Background" height="75%">
+</p>
+
+### Greetings! I am Lucas :)
+
+- 🔭 I’m currently working on Itaú Unibanco
+- 🌱 I’m currently learning Advanced Machine Learning and AWS Cloud Services 
+- 💬 Ask me about Python, Tableau, Git, SQL, traditional ML models... and Data Science! 
+- 😄 Pronouns: He/Him
+- 💰 Pay me a Coffe: 06e30946-e133-434f-bed0-86d1c8dd48ae (pix) 
 
 <!--
-**olucaslopes/olucaslopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DEFAULT COMMENT FROM GITHUB ###
 
 Here are some ideas to get you started:
 
@@ -14,3 +24,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me:
+
+<p align="left">  
+<a href="https://www.linkedin.com/in/o-lucas-lopes/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+<a href="https://twitter.com/lopslucas_" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
+<a href="mailto:lucaslopesamorim@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
+</p>
