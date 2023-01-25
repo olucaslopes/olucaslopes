@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Advanced Machine Learning and AWS Cloud Services 
 - 💬 Ask me about Python, Tableau, Git, SQL, traditional ML models... and Data Science! 
 - 😄 Pronouns: He/Him
-- 💰 Pay me a Coffe: 06e30946-e133-434f-bed0-86d1c8dd48ae (pix) 
+- 💰 Pay me a Coffee: 06e30946-e133-434f-bed0-86d1c8dd48ae (pix) 
 
 <!--
 ### DEFAULT COMMENT FROM GITHUB ###
